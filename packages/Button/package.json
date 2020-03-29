@@ -1,0 +1,15 @@
+{
+  "name": "Button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "TextBox": "^1.0.0"
+  }
+}
