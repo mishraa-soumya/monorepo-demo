@@ -1,15 +1,16 @@
 {
-  "name": "Button",
-  "version": "1.0.1",
+  "name": "ds-button",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "babel src --out-dir lib"
+    "build": "babel src --out-dir lib",
+    "test": "echo testing the package: $npm_package_name"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "TextBox": "^1.0.1"
+    "axios": "^0.19.2"
   }
 }

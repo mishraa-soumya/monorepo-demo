@@ -1,14 +1,11 @@
 {
-  "name": "dropdown",
-  "version": "1.0.1",
-  "description": "A dropdown base component",
-  "keywords": [
-    "dropdown"
-  ],
+  "name": "ds-eslint",
+  "version": "1.0.0",
+  "description": "> TODO: description",
   "author": "SoumyaM <soumyamishra263@gmail.com>",
   "homepage": "https://github.com/soumya18/monorepo-demo#readme",
   "license": "ISC",
-  "main": "lib/Dropdown.js",
+  "main": "lib/ds-eslint.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -20,10 +17,10 @@
     "type": "git",
     "url": "git+https://github.com/soumya18/monorepo-demo.git"
   },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
   "bugs": {
     "url": "https://github.com/soumya18/monorepo-demo/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
   }
 }

@@ -4,7 +4,9 @@
   "description": "A mono repository to be managed by lerna",
   "main": "index.js",
   "scripts": {
-    "build": "npx lerna run build"
+    "lerna:bootstrap": "npx lerna bootstrap",
+    "lerna:build": "npx lerna run build",
+    "lerna:test": "lerna run test"
   },
   "author": "SOUMYA MISHRA",
   "license": "ISC",
@@ -18,5 +20,8 @@
   "dependencies": {
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
   }
 }

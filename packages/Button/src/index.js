@@ -1,6 +1,6 @@
 import * as React from "react";
 
-const Button = (props) => {
+const Button = ({btnType}) => {
     const type = props.btnType ? props.btnType : 'button';
     return (
         <button type={type} >
