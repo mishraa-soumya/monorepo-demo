@@ -1,6 +1,6 @@
 {
   "name": "ds-auth",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "SoumyaM <soumyamishra263@gmail.com>",
@@ -26,8 +26,8 @@
   "homepage": "https://github.com/soumya18/monorepo-demo#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "ds-fetch": "^1.0.0",
-    "ds-textbox": "^1.0.1",
+    "ds-fetch": "^1.1.0",
+    "ds-textbox": "^1.1.0",
     "node-fetch": "^2.6.0"
   }
 }
