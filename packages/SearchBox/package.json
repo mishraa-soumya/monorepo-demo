@@ -11,8 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "Button": "^1.0.1",
-    "TextBox": "^1.0.1",
     "axios": "^0.19.2"
   }
 }

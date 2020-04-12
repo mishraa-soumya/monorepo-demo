@@ -6,7 +6,8 @@
   "scripts": {
     "lerna:bootstrap": "npx lerna bootstrap",
     "lerna:build": "npx lerna run build",
-    "lerna:test": "lerna run test"
+    "lerna:test": "lerna run test",
+    "clear": "rm -rf node_modules && lerna clean"
   },
   "author": "SOUMYA MISHRA",
   "license": "ISC",
