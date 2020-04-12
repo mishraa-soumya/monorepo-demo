@@ -1,0 +1,29 @@
+{
+  "name": "ds-types",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "SoumyaM <soumyamishra263@gmail.com>",
+  "homepage": "https://github.com/soumya18/monorepo-demo#readme",
+  "license": "ISC",
+  "main": "lib/ds-types.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumya18/monorepo-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/soumya18/monorepo-demo/issues"
+  },
+  "dependencies": {
+    "ds-prettier": "^1.1.0"
+  }
+}
