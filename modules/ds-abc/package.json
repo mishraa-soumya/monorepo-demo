@@ -1,0 +1,32 @@
+{
+  "name": "ds-abc",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Soumya Mishra <soumya.mishra1@aexp.com>",
+  "homepage": "https://github.com/soumya18/monorepo-demo#readme",
+  "license": "ISC",
+  "main": "lib/ds-abc.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://acp-repoadm.app.aexp.com/artifactory/api/npm/npm-virtual"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumya18/monorepo-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/soumya18/monorepo-demo/issues"
+  },
+  "dependencies": {
+    "ds-types": "^2.0.0"
+  }
+}
