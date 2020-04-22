@@ -5,4 +5,5 @@ module.exports = dsPrettier;
 function dsPrettier() {
     // TODO
     const name = "ds-prettier";
+    return name;
 }
