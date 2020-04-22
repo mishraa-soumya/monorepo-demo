@@ -1,6 +1,6 @@
 {
   "name": "ds-abc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "Soumya Mishra <soumya.mishra1@aexp.com>",
   "homepage": "https://github.com/soumya18/monorepo-demo#readme",
@@ -27,6 +27,6 @@
     "url": "https://github.com/soumya18/monorepo-demo/issues"
   },
   "dependencies": {
-    "ds-types": "^3.0.1"
+    "ds-types": "^3.0.2"
   }
 }

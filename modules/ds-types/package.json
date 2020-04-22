@@ -1,6 +1,6 @@
 {
   "name": "ds-types",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "> TODO: description",
   "author": "SoumyaM <soumyamishra263@gmail.com>",
   "homepage": "https://github.com/soumya18/monorepo-demo#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/soumya18/monorepo-demo/issues"
   },
   "dependencies": {
-    "ds-prettier": "^2.1.0"
+    "ds-prettier": "^2.1.1"
   }
 }
