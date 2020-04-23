@@ -1,11 +1,11 @@
 {
-  "name": "ds-types",
-  "version": "3.0.2",
+  "name": "ds-test",
+  "version": "1.0.0",
   "description": "> TODO: description",
-  "author": "SoumyaM <soumyamishra263@gmail.com>",
+  "author": "Soumya Mishra <soumya.mishra1@aexp.com>",
   "homepage": "https://github.com/soumya18/monorepo-demo#readme",
   "license": "ISC",
-  "main": "lib/ds-types.js",
+  "main": "lib/ds-test.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "registry": "http://acp-repoadm.app.aexp.com/artifactory/api/npm/npm-virtual"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/soumya18/monorepo-demo.git"
@@ -25,6 +28,5 @@
   },
   "dependencies": {
     "ds-prettier": "^2.1.1"
-  },
-  "gitHead": "eb9500fb30345d008c1d5a14fe60cae6fb81610f"
+  }
 }
