@@ -1,6 +1,6 @@
 {
   "name": "ds-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Soumya Mishra <soumya.mishra1@aexp.com>",
   "homepage": "https://github.com/soumya18/monorepo-demo#readme",
@@ -27,6 +27,6 @@
     "url": "https://github.com/soumya18/monorepo-demo/issues"
   },
   "dependencies": {
-    "ds-prettier": "^2.1.1"
+    "ds-prettier": "^2.1.2"
   }
 }
